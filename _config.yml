@@ -1,11 +1,11 @@
 # Site settings
-title: Hanz Blog
-SEOTitle: 张涵的博客 | Hanz Blog
+title: Han Zhang
+SEOTitle: 张涵 | Hanz Blog
 header-img: img/home-bg.jpg
 email: michaelzhhan1990@gmail.com
-description: "NLP/DL/CV" 
+description: "NLP/DL/CV"
 keyword: ""
-url: "https://michaelzhhan1990.github.io"              # your host, for absolute URL
+url: "https://hanzmyco.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -14,7 +14,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 RSS: false
 weibo_username:     false
 zhihu_username:     zhang-han-45-74
-github_username:    michaelzhhan1990
+github_username:    hanzmyco
 twitter_username:   false
 #facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
@@ -56,7 +56,7 @@ netease_comment: false
 
 
 # Analytics settings
-# Baidu Analytics 
+# Baidu Analytics
 # ba_track_id: [your track id]
 
 # Google Analytics
@@ -68,7 +68,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "伪AI爱好者"
-sidebar-avatar: /img/avatar-hanz.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/selfie.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -86,7 +86,7 @@ service-worker: true
 
 # Friends
 friends: [
-    
+
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
