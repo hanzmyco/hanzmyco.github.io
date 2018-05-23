@@ -1,11 +1,11 @@
 
 
-> Yet another man.
+> I can do this all day.
 
 
-Hi, I am *@hanz* (Han Zhang), a NLP/CV researcher. I previously worked as Applied Scientist in [Microsoft AI & Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/);
+Hi, I am *@hanz* (Han Zhang), a NLP/CV researcher. I previously worked as Applied Scientist in [Microsoft AI & Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/).
 
-I was a master student in Language Technologies in [LTI, Carnegie Mellon University](https://en.wikipedia.org/wiki/Communication_University_of_China) from 2013 - 2015, and had a bachelor degree in maths in [Sun Yat-sen University ](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology) from 2009 - 2013.
+I was a master student in Language Technologies in [LTI, Carnegie Mellon University](https://www.lti.cs.cmu.edu/) from 2013 - 2015, and had a bachelor degree in maths in [Sun Yat-sen University ](http://www.sysu.edu.cn/2012/en/index.htm) from 2009 - 2013.
 
 
 ##### Talks
